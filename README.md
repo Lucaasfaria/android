@@ -1,2 +1,1 @@
-# android
-Projeto realizado com HTML5 e CSS3
+Veja como o prijeto ficoi --   https://lucaasfaria.github.io/android/
