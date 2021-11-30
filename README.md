@@ -1,1 +1,1 @@
-Veja como o prijeto ficoi --   https://lucaasfaria.github.io/android/
+Veja como o projeto ficou  https://lucaasfaria.github.io/android/
